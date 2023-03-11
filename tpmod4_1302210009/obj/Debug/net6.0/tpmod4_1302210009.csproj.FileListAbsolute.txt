@@ -1,0 +1,15 @@
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.csproj.AssemblyReference.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.AssemblyInfoInputs.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.AssemblyInfo.cs
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.csproj.CoreCompileInputs.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\bin\Debug\net6.0\tpmod4_1302210009.exe
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\bin\Debug\net6.0\tpmod4_1302210009.deps.json
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\bin\Debug\net6.0\tpmod4_1302210009.runtimeconfig.json
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\bin\Debug\net6.0\tpmod4_1302210009.dll
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\bin\Debug\net6.0\tpmod4_1302210009.pdb
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.dll
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\refint\tpmod4_1302210009.dll
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.pdb
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\tpmod4_1302210009.genruntimeconfig.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod4_1302210009\tpmod4_1302210009\obj\Debug\net6.0\ref\tpmod4_1302210009.dll
